@@ -6,18 +6,18 @@ The provided code and configuration file are used to scrape information from a w
 **Libraries Required:**
 
 - Requests: Used for making HTTP requests to fetch the web page.
--Install it using pip:
--pip install requests
+Install it using pip:
+pip install requests
 
--BeautifulSoup (from the bs4 package): Used for parsing the HTML content of the web page.
--Install it using pip:
--pip install beautifulsoup4
+- BeautifulSoup (from the bs4 package): Used for parsing the HTML content of the web page.
+Install it using pip:
+pip install beautifulsoup4
 
--urllib.parse: Used for parsing the URL.
--This library is part of Python's standard library, so there's no need to install it separately.
+- urllib.parse: Used for parsing the URL.
+This library is part of Python's standard library, so there's no need to install it separately.
 
--json: Used for creating and writing JSON files.
--This library is part of Python's standard library.
+- json: Used for creating and writing JSON files.
+This library is part of Python's standard library.
 
 **Explanation of the Code:**
 
