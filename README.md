@@ -1,7 +1,7 @@
 # REAL-ESTATE
  WEBSCRAPPING REAL ESTATE PROJECTS 
 
-The provided code and configuration file are used to scrape information from a web page, particularly a project page, and store specific details, specifications, and features into a JSON file. Below, I'll explain what the code does, the libraries required, how to install them, and the purpose of the configuration file.
+The provided code and configuration file are used to scrape information from a web page, particularly a real estate project page, and store specific details, specifications, and features into a JSON file. Below, I'll explain what the code does, the libraries required, how to install them, and the purpose of the configuration file.
 
 **Libraries Required:**
 
